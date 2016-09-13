@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Inpad/inpad.png?label=ready&title=Ready)](https://waffle.io/Inpad/inpad)
 # Inpad
 
   readme.md
